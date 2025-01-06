@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\burak\source\repos\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb
